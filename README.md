@@ -1,10 +1,14 @@
 # sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023
 
+[Ver el índice](https://santiarroyave.github.io/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/)
+
 ## Ejercicio 11
 * Índice: https://santiarroyave.github.io/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/Ejercicio11/
 * Donde HTML: https://santiarroyave.github.io/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/Ejercicio11/deportes/donde.html
-* Donde2 HTML: https://santiarroyave.github.io/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/Ejercicio11/deportes/donde.html
-* ![Ejercicio 11](https://github.com/santiarroyave/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/assets/135848692/807ae274-f9ea-4ead-98b1-0f668ff21941)
+* Donde2 HTML: https://santiarroyave.github.io/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/Ejercicio11/deportes/donde2.html
+* <img width="738" alt="Ejercicio 11 - 1" src="https://github.com/santiarroyave/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/assets/135848692/42f78afc-7ce6-4b4a-9e1f-8786a8acf617">
+* <img width="738" alt="Ejercicio 11 - 2" src="https://github.com/santiarroyave/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/assets/135848692/92e59ddc-3ec1-483a-8b08-7acf85b2315b">
+
 
 ## Ejercicio 12
 * Índice: https://santiarroyave.github.io/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/Ejercicio12/

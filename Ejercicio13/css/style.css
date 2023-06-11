@@ -1,0 +1,65 @@
+body{
+    /* font-size: 1.5em; */
+    
+}
+
+.contenedor{
+	width: 98%;
+	max-width: 1000px;
+    margin: auto;
+    padding: 2em;
+	
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+table{
+    margin: auto;
+    border: 3px solid;
+    border-top-color: #E5E5E5;
+    border-left-color:#E5E5E5;
+    border-right-color: gray;
+    border-bottom-color: gray;
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+}
+
+.tituloTabla{
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+td{
+    border: inset 1px black;
+    font-weight: bold;
+}
+
+.celda1{
+    background-color: #99ff9a;
+}
+.celda2{
+    background-color: #65ffff;
+    text-align: left;
+}
+.celda6{
+    background-color: #ff99ff;
+    text-align: right;
+    vertical-align: bottom;
+}
+.celda3, .celda5, .celda8{
+    color: red;
+}
+
+/* 480 768 1024 */
+@media (max-width: 1024px){
+	.contenedor{
+		padding-left: 2%;
+		padding-right: 2%;
+		max-width: 96%;
+	}
+}

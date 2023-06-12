@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	/* padding: 0; */
+	box-sizing: border-box;
+}
+
+body{
+	font-size: 1.5em;
+}
+
+.contenedor{
+	width: 98%;
+	max-width: 1000px;
+    margin: auto;
+    padding: 2em;
+	
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.listaMinusculas{
+	list-style-type:lower-alpha;
+	list-style-position: inside;	
+}
+.listaRomana{
+	list-style-type: upper-roman;
+	list-style-position: inside;
+}
+.listaRomana li::before{
+	content: "";
+	display: inline-block;
+	width: 1em;
+}
+
+/* 480 768 1024 */
+@media (max-width: 1024px){
+	.contenedor{
+		padding-left: 2%;
+		padding-right: 2%;
+		max-width: 96%;
+	}
+}

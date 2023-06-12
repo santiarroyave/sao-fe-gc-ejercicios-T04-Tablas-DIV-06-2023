@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	/* padding: 0; */
+	box-sizing: border-box;
+}
+
+body{
+	font-size: 1.5em;
+}
+
+.contenedor{
+	width: 98%;
+	max-width: 1000px;
+    margin: auto;
+    padding: 2em;
+	
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+table{
+    margin: auto;
+
+    border: 3px solid;
+    border-top-color: #E5E5E5;
+    border-left-color:#E5E5E5;
+    border-right-color: gray;
+    border-bottom-color: gray;
+
+    width: 100%;
+    background-color: #ffffcc;
+    color: #6a0226;
+    text-align: center;
+}
+
+tr{
+    background-image: url(../images/pisadas.svg);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 2em;
+}
+
+td{
+    border: inset 1px black;
+    background-image: none;
+}
+
+table tr:nth-child(1){
+    background-color: #669966;
+    text-transform: uppercase;
+    background-image: none;
+}
+table tr:nth-child(2){
+    background-color: #ffcc99;
+    text-transform: uppercase;
+    background-image: none;
+}
+table tr:nth-child(3){
+    background-color: #ffff99;
+    text-transform: uppercase;
+    background-image: none;
+}
+
+/* 480 768 1024 */
+@media (max-width: 1024px){
+	.contenedor{
+		padding-left: 2%;
+		padding-right: 2%;
+		max-width: 96%;
+	}
+}

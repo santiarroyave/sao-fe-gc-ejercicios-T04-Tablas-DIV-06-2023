@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+    font-size: 1.1em;
+}
+
+.contenedor{
+    background-color: #fff;
+	width: 98%;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 2em;
+    background-image: url(../images/ac.jpg);
+    
+    text-align: justify;
+}
+
+table, td, th{
+    border: inset 1px black;
+}
+
+th{
+    text-align: center;
+}
+
+
+
+/* 480 768 1024 */
+@media (max-width: 1024px){
+	.contenedor{
+		padding-left: 2%;
+		padding-right: 2%;
+		max-width: 96%;
+	}
+}

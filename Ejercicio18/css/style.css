@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.contenedor{
+    background-color: #fff;
+	width: 98%;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 2em;
+    background-image: url(../images/ac.jpg);
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+    gap: 1em;
+    overflow: hidden;
+}
+
+/* Recuadros */
+#recuadro-1{
+    background-color: #a4d3ff;
+    width: 100%;
+    max-width: 13.5em;
+    height: 7.3em;
+    border: 3px solid blue;
+}
+
+#recuadro-2{
+    background-color: #a4d3ff;
+    width: 100%;
+    max-width: 28em;
+    height: 18em;
+    border: 5px solid red;
+    margin-left: 1em;
+    width: calc(100% - 1em);
+}
+
+#recuadro-3{
+    background-color: #a4d3ff;
+    width: 100%;
+    max-width: 13.5em;
+    height: 7.3em;
+    border: 3px solid blue;
+}
+
+
+/* Fondos */
+.suelo{
+    background-image: url(../images/f01.png);
+    background-position-y: bottom;
+    background-repeat: repeat-x;
+    height: 100%;
+}
+
+.nubes{
+    background-image: url(../images/f03.png);
+    background-position-y: top;
+    background-repeat: repeat-x;
+    height: 100%;
+}
+
+.mario{
+    background-image: url(../images/f02.png);
+    background-position-y: bottom;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+/* 480 768 1024 */
+@media (max-width: 1024px){
+	.contenedor{
+		padding-left: 2%;
+		padding-right: 2%;
+		max-width: 96%;
+	}
+}
+
+@media (max-width: 768px){
+    #recuadro-2{
+        background-color: #a4d3ff;
+        max-width: none;
+        margin: 0;
+    }
+    
+}

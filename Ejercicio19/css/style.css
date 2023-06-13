@@ -38,12 +38,3 @@ table, td, th{
 		max-width: 96%;
 	}
 }
-
-@media (max-width: 768px){
-    #recuadro-2{
-        background-color: #a4d3ff;
-        max-width: none;
-        margin: 0;
-    }
-    
-}

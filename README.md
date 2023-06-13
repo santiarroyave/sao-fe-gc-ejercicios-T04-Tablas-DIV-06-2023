@@ -1,4 +1,4 @@
-# sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023
+# T04 - Tablas DIV
 
 [Ver el índice](https://santiarroyave.github.io/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/)
 
@@ -43,7 +43,8 @@
 
 ## Ejercicio 20
 * https://santiarroyave.github.io/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/Ejercicio20/
-* ![imagen](https://github.com/santiarroyave/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/assets/135848692/82bc6cb7-ec11-41e8-b043-e0e49a1cbf75)
+* ![imagen](https://github.com/santiarroyave/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/assets/135848692/09370a8e-69b4-43a3-a940-09f383a5ba17)
+
 
 
 
